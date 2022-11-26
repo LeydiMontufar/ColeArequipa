@@ -2,14 +2,14 @@
 
 namespace App\Controllers;
 
-class Home extends BaseController
+class ColegioController extends BaseController
 {
     public function index()
     {
         return view('Colegio/Index');
     }
-    public function reglamento()
+    public function Reglamento()
     {
-        return view('Colegio/Reglamento');
+        return view('Colegio/Index');
     }
 }
