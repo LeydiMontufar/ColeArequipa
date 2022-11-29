@@ -8,8 +8,25 @@ class Home extends BaseController
     {
         return view('Colegio/Index');
     }
-    public function reglamento()
+    public function Perfil()
     {
-        return view('Colegio/Reglamento');
+        return view('Colegio/Perfil');
+    }
+    public function espiritual()
+    {
+        return view('Colegio/Espiritual');
+    }
+    public function nosotros()
+    {
+        return view('Colegio/Nosotros');
+    }public function contacto()
+    {
+        return view('Colegio/Contacto');
+    }public function adm()
+    {
+        return view('Colegio/Admin');
+    }public function propuesta()
+    {
+        return view('Colegio/Propuesta');
     }
 }
