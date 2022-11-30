@@ -33,9 +33,9 @@
 
 
     <!-- Navbar Start -->
-    <div class="container-fluid position-relative nav-bar p-0">
-        <div class="container position-relative" style="z-index: 9;">
-            <nav class="navbar navbar-expand-lg bg-secondary navbar-dark py-3 py-lg-0 pl-3 pl-lg-5">
+    <div class="container-fluid position-relative nav-bar p-0 ">
+        <div class="container position-relative " style="z-index: 9;">
+            <nav class="navbar navbar-expand-lg bg-danger navbar-dark py-3 py-lg-0 pl-3 pl-lg-5">
                 <a href="" class="navbar-brand">
                     <h1 class="m-0 display-5 text-white"><span class="text-primary">i</span>EBENEZER</h1>
                 </a>

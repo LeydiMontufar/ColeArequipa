@@ -14,7 +14,8 @@
             <div class="row pb-3">
                 <div class="col-md-4 mb-4">
                     <div class="card border-0 mb-2">
-                        <img class="card-img-top" src="<?php echo base_url ()  ?>/public/img/historia1.jpg" alt="">
+                        <img class="card-img-top" src="<?php echo base_url ()  ?>/public/img/lideres.png
+                        " alt="">
                         <div class="card-body bg-white p-4">
                             <div class="d-flex align-items-center mb-3">
                                 <a class="btn btn-primary" href=""><i class="fa fa-link"></i></a>
@@ -26,7 +27,7 @@
                 </div>
                 <div class="col-md-4 mb-4">
                     <div class="card border-0 mb-2">
-                        <img class="card-img-top" src="<?php echo base_url ()  ?>/public/img/historia2.png" alt="">
+                        <img class="card-img-top" src="<?php echo base_url ()  ?>/public/img/amable.png" alt="">
                         <div class="card-body bg-white p-4">
                             <div class="d-flex align-items-center mb-3">
                                 <a class="btn btn-primary" href=""><i class="fa fa-link"></i></a>
@@ -38,7 +39,7 @@
                 </div>
                 <div class="col-md-4 mb-4">
                     <div class="card border-0 mb-2">
-                        <img class="card-img-top" src="<?php echo base_url ()  ?>/public/img/historia1.jpg" alt="">
+                        <img class="card-img-top" src="<?php echo base_url ()  ?>/public/img/verdad.png" alt="">
                         <div class="card-body bg-white p-4">
                             <div class="d-flex align-items-center mb-3">
                                 <a class="btn btn-primary" href=""><i class="fa fa-link"></i></a>
@@ -50,7 +51,7 @@
                 </div>
                 <div class="col-md-4 mb-4">
                     <div class="card border-0 mb-2">
-                        <img class="card-img-top" src="<?php echo base_url ()  ?>/public/img/historia2.png" alt="">
+                        <img class="card-img-top" src="<?php echo base_url ()  ?>/public/img/investigador.png" alt="">
                         <div class="card-body bg-white p-4">
                             <div class="d-flex align-items-center mb-3">
                                 <a class="btn btn-primary" href=""><i class="fa fa-link"></i></a>
@@ -62,7 +63,7 @@
                 </div>
                 <div class="col-md-4 mb-4">
                     <div class="card border-0 mb-2">
-                        <img class="card-img-top" src="<?php echo base_url ()  ?>/public/img/historia1.jpg" alt="">
+                        <img class="card-img-top" src="<?php echo base_url ()  ?>/public/img/asertivo.png" alt="">
                         <div class="card-body bg-white p-4">
                             <div class="d-flex align-items-center mb-3">
                                 <a class="btn btn-primary" href=""><i class="fa fa-link"></i></a>
@@ -74,7 +75,7 @@
                 </div>
                 <div class="col-md-4 mb-4">
                     <div class="card border-0 mb-2">
-                        <img class="card-img-top" src="<?php echo base_url ()  ?>/public/img/historia2.png" alt="">
+                        <img class="card-img-top" src="<?php echo base_url ()  ?>/public/img/ordenado.png" alt="">
                         <div class="card-body bg-white p-4">
                             <div class="d-flex align-items-center mb-3">
                                 <a class="btn btn-primary" href=""><i class="fa fa-link"></i></a>
@@ -89,7 +90,7 @@ Establecen una jerarquía de valores cristianos y se comprometen con ellos.</p>
                 </div>
                 <div class="col-md-4 mb-4">
                     <div class="card border-0 mb-2">
-                        <img class="card-img-top" src="<?php echo base_url ()  ?>/public/img/historia1.jpg" alt="">
+                        <img class="card-img-top" src="<?php echo base_url ()  ?>/public/img/responsable.png" alt="">
                         <div class="card-body bg-white p-4">
                             <div class="d-flex align-items-center mb-3">
                                 <a class="btn btn-primary" href=""><i class="fa fa-link"></i></a>
@@ -104,7 +105,7 @@ Asumen la responsabilidad de sus actos.</p>
                 </div>
                 <div class="col-md-4 mb-4">
                     <div class="card border-0 mb-2">
-                        <img class="card-img-top" src="<?php echo base_url ()  ?>/public/img/historia2.png" alt="">
+                        <img class="card-img-top" src="<?php echo base_url ()  ?>/public/img/respeto.png" alt="">
                         <div class="card-body bg-white p-4">
                             <div class="d-flex align-items-center mb-3">
                                 <a class="btn btn-primary" href=""><i class="fa fa-link"></i></a>
@@ -119,7 +120,7 @@ clase y pide permiso para salir del aula.</p>
                 </div>
                 <div class="col-md-4 mb-4">
                     <div class="card border-0 mb-2">
-                        <img class="card-img-top" src="<?php echo base_url ()  ?>/public/img/historia1.jpg" alt="">
+                        <img class="card-img-top" src="<?php echo base_url ()  ?>/public/img/reflexivo.png" alt="">
                         <div class="card-body bg-white p-4">
                             <div class="d-flex align-items-center mb-3">
                                 <a class="btn btn-primary" href=""><i class="fa fa-link"></i></a>
@@ -130,66 +131,10 @@ clase y pide permiso para salir del aula.</p>
                         </div>
                     </div>
                 </div>
-                <div class="col-md-4 mb-4">
-                    <div class="card border-0 mb-2">
-                        <img class="card-img-top" src="<?php echo base_url ()  ?>/public/img/historia2.png" alt="">
-                        <div class="card-body bg-white p-4">
-                            <div class="d-flex align-items-center mb-3">
-                                <a class="btn btn-primary" href=""><i class="fa fa-link"></i></a>
-                                <h5 class="m-0 ml-3 text-truncate">solidarios</h5>
-                            </div>
-                            <p>Visionan el mundo siendo coherentes con los valores cristiano Influyen positivamente en la comunidad con la práctica de valores, buscando el bien común más que el propio. 
-            Realizan acciones innovadoras y audaces para transformar el mundo y hacerlo mejor.</p>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-md-4 mb-4">
-                    <div class="card border-0 mb-2">
-                        <img class="card-img-top" src="<?php echo base_url ()  ?>/public/img/historia1.jpg" alt="">
-                        <div class="card-body bg-white p-4">
-                            <div class="d-flex align-items-center mb-3">
-                                <a class="btn btn-primary" href=""><i class="fa fa-link"></i></a>
-                                <h5 class="m-0 ml-3 text-truncate">Acertivos</h5>
-                            </div>
-                            <p>Visionan el mundo siendo coherentes con los valores cristiano Influyen positivamente en la comunidad con la práctica de valores, buscando el bien común más que el propio. 
-            Realizan acciones innovadoras y audaces para transformar el mundo y hacerlo mejor.</p>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-md-4 mb-4">
-                    <div class="card border-0 mb-2">
-                        <img class="card-img-top" src="<?php echo base_url ()  ?>/public/img/historia2.png" alt="">
-                        <div class="card-body bg-white p-4">
-                            <div class="d-flex align-items-center mb-3">
-                                <a class="btn btn-primary" href=""><i class="fa fa-link"></i></a>
-                                <h5 class="m-0 ml-3 text-truncate">ordenados</h5>
-                            </div>
-                            <p>Visionan el mundo siendo coherentes con los valores cristiano Influyen positivamente en la comunidad con la práctica de valores, buscando el bien común más que el propio. 
-            Realizan acciones innovadoras y audaces para transformar el mundo y hacerlo mejor.</p>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-md-12 mb-4">
-                    <nav aria-label="Page navigation">
-                      <ul class="pagination justify-content-center mb-0">
-                        <li class="page-item disabled">
-                          <a class="page-link" href="#" aria-label="Previous">
-                            <span aria-hidden="true">&laquo;</span>
-                            <span class="sr-only">Previous</span>
-                          </a>
-                        </li>
-                        <li class="page-item active"><a class="page-link" href="#">1</a></li>
-                        <li class="page-item"><a class="page-link" href="#">2</a></li>
-                        <li class="page-item"><a class="page-link" href="#">3</a></li>
-                        <li class="page-item">
-                          <a class="page-link" href="#" aria-label="Next">
-                            <span aria-hidden="true">&raquo;</span>
-                            <span class="sr-only">Next</span>
-                          </a>
-                        </li>
-                      </ul>
-                    </nav>
-                </div>
+                
+                
+                
+                
             </div>
         </div>
     </div>

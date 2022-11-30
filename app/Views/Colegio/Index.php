@@ -16,7 +16,7 @@
                     </div>
                 </div>
                 <div class="carousel-item">
-                    <img class="w-100" src="<?php echo base_url ()  ?>/public/img/ebenezer2.png" alt="Image">
+                    <img class="w-100" src="<?php echo base_url ()  ?>/public/img/portada.jpg" alt="Image">
                     <div class="carousel-caption d-flex flex-column align-items-center justify-content-center">
                         <div class="p-3" style="max-width: 800px;">
                             <h4 class="text-primary text-uppercase font-weight-normal mb-md-3">COLEGIO EBENEZER</h4>
@@ -105,10 +105,10 @@
             <div class="row">
                 <div class="col-12 text-center mb-2">
                     <ul class="list-inline mb-4" id="portfolio-flters">
-                        <li class="btn btn-outline-primary m-1 active"  data-filter="*">colegio</li>
-                        <li class="btn btn-outline-primary m-1" data-filter=".first">colegio</li>
-                        <li class="btn btn-outline-primary m-1" data-filter=".second">colegio</li>
-                        <li class="btn btn-outline-primary m-1" data-filter=".third">colegio</li>
+                        <li class="btn btn-outline-primary m-1 active"  data-filter="*">Todos</li>
+                        <li class="btn btn-outline-primary m-1" data-filter=".first">Inicial</li>
+                        <li class="btn btn-outline-primary m-1" data-filter=".second">Primaria</li>
+                        <li class="btn btn-outline-primary m-1" data-filter=".third">Secundaria</li>
                     </ul>
                 </div>
             </div>
